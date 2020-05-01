@@ -1,1 +1,1 @@
-Project repository in D7047E Advanced Machine learning
+Project repository for the course D7047E Advanced Machine learning from Luleå university of technology
