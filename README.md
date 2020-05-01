@@ -6,4 +6,4 @@ Project repository for the course D7047E Advanced Machine learning from Luleå u
 Group name: Group1
 
 
-Members: Oskar Sundin, Markus Jonsson, Albin Svensson, Kim Sundelius
+Members: Oskar Sundin, Markus Jonsson, Albin Andersson Svensson, Kim Sundelius
